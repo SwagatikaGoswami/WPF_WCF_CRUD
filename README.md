@@ -14,4 +14,7 @@ New order screen
  
 
 Visual Studio 2019
+
+=> Change the connection string in the web service config file
+=> And update the WPF client service reference once the connection string is changed.
  
